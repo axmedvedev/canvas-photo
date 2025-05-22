@@ -1,2 +1,2 @@
 # canvas-photo
-testing pfoto in canvas
+testing take photo in the canvas
